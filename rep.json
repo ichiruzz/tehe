@@ -1,0 +1,23 @@
+[
+    {
+        "Author": "Nik",
+        "Name": "Ast Reborn",
+        "Punchline": "Work work.",
+        "Description": "Tehee.",
+        "InternalName": "AstroReborn",
+        "AssemblyVersion": "1.3.0.2",
+        "RepoUrl": "https://github.com/Nik-Potokar/Astro",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "LoadPriority": 0,
+        "IconUrl": "https://github.com/daemitus/SomethingNeedDoing/raw/master/res/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/Nik-Potokar/Astro/releases/download/Latest/AstroReborn.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Nik-Potokar/Astro/releases/download/Latest/AstroReborn.zip",
+        "DownloadLinkUpdate": "https://github.com/Nik-Potokar/Astro/releases/download/Latest/AstroReborn.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1657926417"
+    }
+]
